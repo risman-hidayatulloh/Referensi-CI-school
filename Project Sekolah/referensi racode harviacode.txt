@@ -1,0 +1,13 @@
+localhost/racode
+localhost/racode/harviacode/index.php
+
+referensi : 
+https://www.youtube.com/watch?v=oHobphy45ZM
+https://github.com/nurisakbar/racode
+https://www.youtube.com/results?search_query=setting+harviacode+to+template+bootstrap
+https://adminlte.io/themes/AdminLTE/pages/UI/icons.html
+
+akademik:
+https://phpmu.com/sistem-informasi-akademik-sekolah-dengan-php-dan-mysql/
+
+http://addib-92.blogspot.com/2014/06/sistem-informasi-akademik-pendataan-dan.html
